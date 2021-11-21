@@ -48,7 +48,7 @@ The next step would be to follow the instruction given in the [AWS EC2 Instance 
 ![](https://miro.medium.com/max/1400/1*LdDE1ymsojPJ5nmH9S28uQ.png) 
 
 ## Input/Output ScreenShots
-![GIF](readme_resources/spam in.png)
+![PNG](readme_resources/Spam in.png)
 ![GIF](readme_resources/spam out.png)
 ![GIF](readme_resources/ham in.png)
 ![GIF](readme_resources/ham out.png)
