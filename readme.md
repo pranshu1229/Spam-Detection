@@ -9,7 +9,7 @@ This repository consists of files required for end to end implementation and dep
   * [About the App](#about-the-app)
   * [Deployement on  AWS EC2 Instance](#deployement)
   * [Technologies Used](#technologies-used)
-  * [Input/Output ScreenShots](#request)
+  * [Input/Output ScreenShots](#Input/Output-ScreenShots)
 
 
 ## App Link
